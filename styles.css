@@ -48,7 +48,7 @@ h2 {
     background-color: #fff;
 }
 
-p {
+.STUDENTS{
 	color: white;
 }
 
@@ -58,6 +58,9 @@ p {
 
 .about {
 	text-align: center;
+    margin-top: 6rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem; 
 }
 .peach-gradient {
 	border-radius: 11%;
@@ -93,11 +96,22 @@ p {
 .clubs {
     padding: 4rem;  
 }
-.card {
+.card-body {
     box-shadow: white !important;
 }
 .index {
     margin-top: -5rem;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.linear {
+     background-image: radial-gradient(circle, #2193b0, #37a3bf, #4ab3ce, #5cc4de, #6dd5ed);
+    padding-left: 8rem;
+    padding-right: 2rem;
+
+}
+.grad {
+      background-image: radial-gradient(circle, #eb3349, #ee3f47, #f04946, #f25344, #f45c43);
+      padding-left: 2rem;
+    padding-right: 8rem;
 }

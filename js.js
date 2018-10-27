@@ -7,6 +7,16 @@ document.onreadystatechange = function () {
          document.getElementById('interactive');
          document.getElementById('load').style.visibility="hidden";
          document.getElementById('contents').style.visibility="visible";
-      },100);
+      },10);
   }
 }
+
+
+
+
+
+
+
+
+
+
