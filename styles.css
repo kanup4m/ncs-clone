@@ -119,4 +119,6 @@ h2 {
 .gridd {
     text-align: center;
 vertical-align: middle;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
