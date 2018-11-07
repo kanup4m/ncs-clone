@@ -58,12 +58,17 @@ h2 {
 
 .about {
 	text-align: center;
-    margin-top: 6rem;
+    margin-top: 3rem;
     padding-top: 3rem;
     padding-bottom: 3rem; 
 }
+
+#aboutt {
+    font-size: 36px;
+    
+}
 .peach-gradient {
-	border-radius: 11%;
+	border-radius: 30px;
 }
 
 .card.card-cascade.wider.reverse.qwerty {
@@ -99,26 +104,54 @@ h2 {
 .card-body {
     box-shadow: white !important;
 }
-.index {
+/* .index {
     margin-top: -5rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
-}
+    padding-left: 8rem;
+    padding-right: 8rem;
+} */
 .linear {
      background-image: radial-gradient(circle, #2193b0, #37a3bf, #4ab3ce, #5cc4de, #6dd5ed);
     padding-left: 8rem;
     padding-right: 2rem;
+    margin-top: -5rem;
+
 
 }
 .grad {
       background-image: radial-gradient(circle, #eb3349, #ee3f47, #f04946, #f25344, #f45c43);
       padding-left: 2rem;
     padding-right: 8rem;
+    margin-top: -5rem;
 }
 
-.gridd {
+.row.justify-content-around {
+    padding-bottom: 5rem;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3rem;    
+}
+
+.card.mb-4 {
+    margin-top: -5rem;
+    height: 180px;
+    width: 100px;
+}
+.card-body {
     text-align: center;
-vertical-align: middle;
-    padding-left: 4rem;
-    padding-right: 4rem;
+
+}
+.card-title {
+    font-size: 36px;
+    padding-top: 2rem;
+    line-height: 1.2;
+}
+.col-sm:hover {
+
+    box-shadow: 0 0 19px rgba(33,33,33,.2);
+}
+.png {
+    text-align: center;
+
 }

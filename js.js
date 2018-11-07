@@ -20,3 +20,18 @@ document.onreadystatechange = function () {
 
 
 
+// <div class="container">
+//             <div class="row index">
+//                 <div class="col-sm">
+//                     <img src="world.png" class="img-thumbnail">
+//     </div>
+//                     <div class="col-sm">
+//                         <img src="world.png" class="img-thumbnail">
+
+//     </div>
+//                         <div class="col-sm">
+//                             <img src="world.png" class="img-thumbnail">
+
+//     </div>
+//                         </div>
+//                     </div>
